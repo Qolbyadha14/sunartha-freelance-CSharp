@@ -1,0 +1,17 @@
+C:\side project\sunartha\sunartha-freelance-CSharp\Test Data Structure\obj\Debug\net6.0\Test Data Structure.csproj.AssemblyReference.cache
+C:\side project\sunartha\sunartha-freelance-CSharp\Test Data Structure\obj\Debug\net6.0\Test Data Structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\side project\sunartha\sunartha-freelance-CSharp\Test Data Structure\obj\Debug\net6.0\Test Data Structure.AssemblyInfoInputs.cache
+C:\side project\sunartha\sunartha-freelance-CSharp\Test Data Structure\obj\Debug\net6.0\Test Data Structure.AssemblyInfo.cs
+C:\side project\sunartha\sunartha-freelance-CSharp\Test Data Structure\obj\Debug\net6.0\Test Data Structure.csproj.CoreCompileInputs.cache
+C:\side project\sunartha\sunartha-freelance-CSharp\Test Data Structure\bin\Debug\net6.0\Test Data Structure.exe
+C:\side project\sunartha\sunartha-freelance-CSharp\Test Data Structure\bin\Debug\net6.0\Test Data Structure.deps.json
+C:\side project\sunartha\sunartha-freelance-CSharp\Test Data Structure\bin\Debug\net6.0\Test Data Structure.runtimeconfig.json
+C:\side project\sunartha\sunartha-freelance-CSharp\Test Data Structure\bin\Debug\net6.0\Test Data Structure.dll
+C:\side project\sunartha\sunartha-freelance-CSharp\Test Data Structure\bin\Debug\net6.0\Test Data Structure.pdb
+C:\side project\sunartha\sunartha-freelance-CSharp\Test Data Structure\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\side project\sunartha\sunartha-freelance-CSharp\Test Data Structure\obj\Debug\net6.0\Test Data Structure.csproj.CopyComplete
+C:\side project\sunartha\sunartha-freelance-CSharp\Test Data Structure\obj\Debug\net6.0\Test Data Structure.dll
+C:\side project\sunartha\sunartha-freelance-CSharp\Test Data Structure\obj\Debug\net6.0\refint\Test Data Structure.dll
+C:\side project\sunartha\sunartha-freelance-CSharp\Test Data Structure\obj\Debug\net6.0\Test Data Structure.pdb
+C:\side project\sunartha\sunartha-freelance-CSharp\Test Data Structure\obj\Debug\net6.0\Test Data Structure.genruntimeconfig.cache
+C:\side project\sunartha\sunartha-freelance-CSharp\Test Data Structure\obj\Debug\net6.0\ref\Test Data Structure.dll
