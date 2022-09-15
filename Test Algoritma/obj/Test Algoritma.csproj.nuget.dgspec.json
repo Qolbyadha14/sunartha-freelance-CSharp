@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\side project\\sunartha\\sunartha-freelance-CSharp\\Test Algoritma\\Test Algoritma.csproj": {}
+  },
+  "projects": {
+    "C:\\side project\\sunartha\\sunartha-freelance-CSharp\\Test Algoritma\\Test Algoritma.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\side project\\sunartha\\sunartha-freelance-CSharp\\Test Algoritma\\Test Algoritma.csproj",
+        "projectName": "Test Algoritma",
+        "projectPath": "C:\\side project\\sunartha\\sunartha-freelance-CSharp\\Test Algoritma\\Test Algoritma.csproj",
+        "packagesPath": "C:\\Users\\Qolby Yostra\\.nuget\\packages\\",
+        "outputPath": "C:\\side project\\sunartha\\sunartha-freelance-CSharp\\Test Algoritma\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Qolby Yostra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
